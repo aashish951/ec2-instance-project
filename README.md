@@ -3,8 +3,7 @@
 **Project URL**: https://roadmap.sh/projects/ec2-instance
 
 ## 🌐 Live Website
-http://YOUR_EC2_PUBLIC_IP
-(Replace with your actual EC2 public IP)
+http://13.233.66.86
 
 ## 📋 Project Description
 Successfully deployed a custom animated website on AWS EC2 using Ubuntu Server and Nginx web server. This project demonstrates cloud computing skills, Linux server administration, and web deployment on AWS infrastructure.
@@ -123,5 +122,6 @@ Through this project, I gained hands-on experience in:
 ✅ **Completed** - Website successfully deployed and running live on AWS EC2
 
 ---
+
 
 *This project is part of the [roadmap.sh](https://roadmap.sh) DevOps learning path.*
